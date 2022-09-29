@@ -1,6 +1,1 @@
-cd to open a directory
-touch to create a new file
-rm to delete a file
-rmdir to delete a folder
-echo to write a line in a file
-cat to check the lines written in a file
+'git pull'
